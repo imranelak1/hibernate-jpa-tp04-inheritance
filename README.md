@@ -13,6 +13,8 @@ mvn exec:java
 
 Les résultats enregistrés donnent **5 tests réussis, sans échec ni erreur**.
 
+Les captures de la démo et des tests viennent d’exécutions réelles dans le terminal.
+
 ![Résultats de la démo](screenshots/results.png)
 
 ![Résultats des tests](screenshots/tests.png)
